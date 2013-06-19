@@ -1,8 +1,8 @@
 Clever
 ======
 
-Clever - Copyright (C) 2013 B^Dub - dubbytt@gmail.com - Last update June 18th 2013
-(subset of Chatty's 3000+ lines of code... clever "turntable.fm" bot)
+##Clever - Copyright (C) 2013 B^Dub - dubbytt@gmail.com - Last update June 18th 2013
+###(subset of Chatty's 3000+ lines of code... clever "turntable.fm" bot)
 
 A NodeJS Turntable.fm bot that interfaces with the surprisingly real
 Cleverbot.com API, allowing an unlimited number of users to hold
@@ -15,6 +15,18 @@ consumed more than 10MB or so for the node process.
 
 This API was converted from Ruby to Javascript for NodeJS.
 Origin: v0.0.3 of https://github.com/gabrielecirulli/cleverbot-api
+
+This bot uses the Turntable API by Alain Gilbert here:
+https://github.com/alaingilbert/Turntable-API
+
+##QUICKSTART (advanced users)
+* Install Node.js
+* Install the TTAPI
+* Setup your Clever.js bot AUTH, USERID, ROOMID, ADMIN, BOTNAME variables
+* In the directory of your bot type "node clever.js" to run the bot
+
+
+##License crap
 
 Not to be re-distributed for profit, or sold. Make it free, or die.
 
@@ -32,13 +44,3 @@ IN THE SOFTWARE.
 This software is best viewed with Sublime Text http://www.sublimetext.com
 
 ASCII GEN http://patorjk.com/software/taag/#p=display&f=Colossal&t=CLEVER
-
-This bot uses the Turntable API by Alain Gilbert here:
-https://github.com/alaingilbert/Turntable-API
-
-QUICKSTART (advanced users)
-===========================
-Install Node.js
-Install the TTAPI
-Setup your Clever.js bot AUTH, USERID, ROOMID, ADMIN, BOTNAME variables
-In the directory of your bot type "node clever.js" to run the bot
