@@ -32,3 +32,13 @@ IN THE SOFTWARE.
 This software is best viewed with Sublime Text http://www.sublimetext.com
 
 ASCII GEN http://patorjk.com/software/taag/#p=display&f=Colossal&t=CLEVER
+
+This bot uses the Turntable API by Alain Gilbert here:
+https://github.com/alaingilbert/Turntable-API
+
+QUICKSTART (advanced users)
+===========================
+Install Node.js
+Install the TTAPI
+Setup your Clever.js bot AUTH, USERID, ROOMID, ADMIN, BOTNAME variables
+In the directory of your bot type "node clever.js" to run the bot
