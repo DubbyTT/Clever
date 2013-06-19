@@ -1,7 +1,7 @@
 Clever
 ======
 
-##Clever - Copyright (C) 2013 B^Dub - dubbytt@gmail.com - Last update June 18th 2013
+###Copyright (C) 2013 B^Dub - dubbytt@gmail.com - Last update June 18th 2013
 ###(subset of Chatty's 3000+ lines of code... clever "turntable.fm" bot)
 
 A NodeJS Turntable.fm bot that interfaces with the surprisingly real
@@ -41,6 +41,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
+##Editor and Stuff
 This software is best viewed with Sublime Text http://www.sublimetext.com
 
 ASCII GEN http://patorjk.com/software/taag/#p=display&f=Colossal&t=CLEVER
