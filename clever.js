@@ -22,6 +22,9 @@
 // This API was converted from Ruby to Javascript for NodeJS.
 // Origin: v0.0.3 of https://github.com/gabrielecirulli/cleverbot-api
 //
+// This bot uses the Turntable API by Alain Gilbert here: 
+// https://github.com/alaingilbert/Turntable-API
+//
 // Not to be re-distributed for profit, or sold. Make it free, or die.
 //
 // The above copyright notice and this permission notice shall be included in
@@ -37,7 +40,7 @@
 //
 // This software is best viewed with Sublime Text http://www.sublimetext.com
 //
-// ASCII GEN http://patorjk.com/software/taag/#p=display&f=Colossal&t=STALKBOT
+// ASCII GEN http://patorjk.com/software/taag/#p=display&f=Colossal&t=CLEVER
 //------------------------------------------------------------------------------
 
 var http        = require('http');
